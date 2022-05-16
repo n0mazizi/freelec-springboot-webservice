@@ -185,6 +185,13 @@ Controller 에서 url 매핑. -> url 매핑 된 메소드 생성 ->
 
 
 
+**** 게시글저장_불러오기() 관련
+build.gradle 버전 아래와 같이 수정
+id 'org.springframework.boot' version '2.1.9.RELEASE'
+
+FreelecSpringbootWebserviceApplicationTests.java
+@Test annotation 기존 import 삭제 후
+import org.junit.Test로 import
 
 
 
