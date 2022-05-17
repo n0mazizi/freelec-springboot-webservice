@@ -4,11 +4,11 @@ package com.jojoldu.book.freelecspringbootwebservice;
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class FreelecSpringbootWebserviceApplicationTests {
+//@SpringBootTest
+/*public class FreelecSpringbootWebserviceApplicationTests {
 
 	@Test
 	void contextLoads() {
 	}
 
-}
+}*/
