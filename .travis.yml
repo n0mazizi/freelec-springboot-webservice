@@ -33,12 +33,8 @@ deploy:
 
 
 
-
-
-
-
 #CI 실행 완료 시 메일로 알람
 notifications:
   email:
     recipients:
-      - heoyunhoe@gmail.com
+      - n0mazizi@naver.com
